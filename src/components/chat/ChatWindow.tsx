@@ -72,7 +72,7 @@ const ChatWindow: React.FC = () => {
             <div className="w-10 h-10 bg-gray-300 rounded-full mr-2"></div>
             <div>
               <h3 className="text-lg font-semibold">Ines KAMBIRE</h3>
-              <span className="text-sm text-gray-500">Aujourd'hui | 08:30</span>
+              <span className="text-sm text-gray-500">Aujourd&aposhui | 08:30</span>
             </div>
           </div>
           <button className="bg-green-500 text-white px-4 py-2 rounded-md">Fermer la discussion</button>
